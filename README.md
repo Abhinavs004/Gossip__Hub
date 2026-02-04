@@ -3,10 +3,11 @@ Basic Details
 Team Name: The Gossips
 
 Team Members
-Team Lead: Sreeresh - TKM College of Engineering
-Member 2: [Member Name] - [Member College]
-Member 3: [Member Name] - [Member College]
-Project Description
+Team Lead: Sreeresh SS - TKM College of Engineering
+Member 2: Abhinav S - TKM College of Engineering
+Member 3: Gulshan Kumar - TKM College of Engineering
+
+Project Description:
 Gossip Hub is a community platform designed for users to engage in light-hearted gossip and trivial discussions. It connects people over nonsensical topics, ensuring no serious conversation ever happens!
 
 The Problem (that doesn't exist)
@@ -61,7 +62,9 @@ https://github.com/user-attachments/assets/a7295bbd-5b89-4d44-aa63-511da8b879da
 
 Additional Demos
 
-Team Contributions
+Team Contributions:
 Sreeresh SS: Project management, backend development, and integration.
+
 Gulshan Kumar: Frontend development, UI design, and user experience testing.
+
 Abhinav S: Database management, deployment, and documentation.
